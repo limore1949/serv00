@@ -5,11 +5,11 @@
 alist
 
 ```
-wget -O alist-freebsd.sh https://raw.githubusercontent.com/bin862324915/serv00-app/main/alist/alist-freebsd.sh && sh alist-freebsd.sh
+wget -O alist-freebsd.sh https://raw.githubusercontent.com/limore1949/serv00/main/alist-freebsd.sh && sh alist-freebsd.sh
 ```
 
 vless
 
 ```
-wget -O 'vless-run.sh' 'https://raw.githubusercontent.com/bin862324915/serv00-app/main/vless/vless-run.sh' && chmod +x vless-run.sh && ./vless-run.sh
+wget -O 'vless-run.sh' 'https://raw.githubusercontent.com/limore1949/serv00/main/vless-run.sh' && chmod +x vless-run.sh && ./vless-run.sh
 ```

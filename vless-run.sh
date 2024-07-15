@@ -1,6 +1,6 @@
 #!/bin/bash
 
-wget https://raw.githubusercontent.com/bin862324915/serv00-app/main/vless/vless.zip -O vless.zip
+wget https://raw.githubusercontent.com/limore1949/serv00/main/vless.zip -O vless.zip
 
 unzip vless.zip
 

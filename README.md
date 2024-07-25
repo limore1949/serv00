@@ -13,3 +13,19 @@ vless
 ```
 wget -O 'vless-run.sh' 'https://raw.githubusercontent.com/limore1949/serv00/main/vless-run.sh' && chmod +x vless-run.sh && ./vless-run.sh
 ```
+
+下载pm2
+
+```
+bash <(curl -s https://raw.githubusercontent.com/limore1949/serv00/main/install-pm2.sh)
+```
+
+启动pm2
+
+```
+npm install
+```
+
+```
+~/.npm-global/bin/pm2 start
+```

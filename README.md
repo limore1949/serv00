@@ -24,8 +24,5 @@ bash <(curl -s https://raw.githubusercontent.com/limore1949/serv00/main/install-
 
 ```
 npm install
-```
-
-```
 ~/.npm-global/bin/pm2 start
 ```
